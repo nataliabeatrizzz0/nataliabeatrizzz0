@@ -2,11 +2,11 @@
 
 ◾ Eu sou Natália Beatriz
 
-◾ Estudante de DevOps na instituição Alura. 🚀
+◾ Estudante de Cloud Computing na instituição Alura. 🚀
 
 ◾ Formada em ADS ✅👩‍🎓 | Pós Lato Sensu em Projetos de Cloud Computing e MBA em Segurança da Informação em andamento 💻📚
 
-◾ Meu foco atualmente está em AWS. 🎯
+◾ Meu foco atualmente está em AWS::Azure. 🎯
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nataliabeatrizzz0&show_icons=true&theme=tokyonight"/>
