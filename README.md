@@ -1,12 +1,14 @@
-## 👩‍💻 Hi!
+## 👩‍💻 Olá!
 
-◾ Eu sou Natália Beatriz
+Sou Natália Beatriz 👋  
 
-◾ Estudante de Cloud Computing  🚀
+🎓 Formada em Análise e Desenvolvimento de Sistemas  
+☁️ Pós-graduação em Cloud Computing  
+🔐 Atualmente focada em Segurança da Informação  
 
-◾ Formada em ADS ✅👩‍🎓 | Pós Lato Sensu em Projetos de Cloud Computing🖥💻📚
+💡 Experiência em monitoramento de ambientes, análise de incidentes e gestão de acessos (IAM)  
 
-◾ Meu foco atualmente está em AWS::Azure. 🎯
+🚀 Em constante evolução na área de tecnologia, com foco em SOC, Cloud e Segurança
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nataliabeatrizzz0&show_icons=true&theme=tokyonight"/>
