@@ -10,11 +10,6 @@ Sou Natália Beatriz 👋
 
 🚀 Em constante evolução na área de tecnologia, com foco em SOC, Cloud e Segurança
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nataliabeatrizzz0&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataliabeatrizzz0&layout=compact&theme=tokyonight"/>
-</div>
-
 ---
 
 ### 🔗 Conecte-se comigo
