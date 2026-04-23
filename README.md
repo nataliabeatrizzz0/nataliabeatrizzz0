@@ -19,7 +19,7 @@ Sou Natália Beatriz 👋
 
 ### 🔗 Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/nat%C3%A1lia-beatriz-01920915b/](https://www.linkedin.com/in/nat%C3%A1lia-b-01920915b/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natália-b-01920915b/)
 
 ---
 
