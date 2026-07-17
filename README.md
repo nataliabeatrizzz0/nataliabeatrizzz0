@@ -4,6 +4,7 @@ Sou Natália Beatriz 👋
 
 🎓 Formada em Análise e Desenvolvimento de Sistemas  
 ☁️ Pós-graduada em Cloud Computing e Segurança da Informação
+
 🔐 Atualmente focada em Segurança da Informação  
 
 💡 Experiência em monitoramento de ambientes, análise de incidentes e gestão de acessos (IAM)  
